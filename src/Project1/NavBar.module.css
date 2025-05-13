@@ -1,0 +1,31 @@
+#navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#sub{
+    flex-basis: 30%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    & a{
+        text-decoration-line:none ;
+        color: black;
+    }
+}
+
+#sub1{
+    flex-basis: 10%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    & img{
+        height: 50px;
+        border-radius: 50%;
+    }
+    & p{
+        margin-top: 15px;
+    }
+}

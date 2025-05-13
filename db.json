@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "c32c",
+      "name": "Vivek",
+      "email": "vivek@gmail.com",
+      "contact": "9767634431"
+    },
+    {
+      "id": "66e0",
+      "name": "tejas",
+      "email": "tejas@gmail.com",
+      "contact": "1234536251"
+    },
+    {
+      "id": "8b76",
+      "name": "sandip",
+      "email": "sandip@gmail.com",
+      "contact": "14262738393"
+    }
+  ]
+}

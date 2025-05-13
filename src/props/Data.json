@@ -1,0 +1,15 @@
+[
+    {
+        "name":"jspiders",
+        "city": "Pune"
+    },
+    {
+        "name":"Qspiders",
+        "city": "Bangaluru"
+    },
+    {
+        "name":"pyspiders",
+        "city": "Maharashtra"
+    }
+
+]

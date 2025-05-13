@@ -1,0 +1,46 @@
+.main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;    
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    gap:10px;
+    & input{
+        width: 400px;
+        height: 40px;
+    }
+}
+
+#btn{
+    display: flex;
+    justify-content: left;
+    & button{
+        margin-left: 10px;
+        border-radius: 10px;
+    }
+    & a{
+        background-color: green;
+        margin-left: 10px;
+        padding: 10px;
+        border-radius: 10px;
+        text-decoration-line:none;
+        color: beige;
+    }
+    & button{
+        background-color: blue;
+        color: beige;
+    }
+
+}
+
+.form{
+    border: 1px solid black;
+    padding: 70px;
+    font-size: 30px;
+}

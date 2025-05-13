@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "title":"Follow the Shooting Star",
+        "author":"Sarah Albee",
+        "price":99,
+        "mrp":399,
+        "publisher":"Disney Books",
+        "image":"https://static.wikia.nocookie.net/winniethepooh/images/e/e5/Follow_the_shooting_star_RWPAYT.png",
+        "description":"Discover a World of Affordable Books! Welcome to BooksByKilo, your one-stop destination for amazing deals on books! Whether you're looking for hot new best-selling releases, premium books to feed your wanderlust, or classic books that will hook you to reading, we've got something for everyone. Get ready to be amazed by our Surprise Stack, featuring hidden gems you never knew existed. With books available at pocket-friendly prices, you can stock up on your favorite novels and timeless tales. Plus, we also offer bulk book purchases for wholesalers. Join our reading community and let the adventure begin at BooksByKilo!"
+    },
+    {
+        "id":2,
+        "title":"Alfie Gets in First",
+        "author":"Shirley Hughes",
+        "price":149,
+        "mrp":450,
+        "publisher":"Red Fox",
+        "image":"https://m.media-amazon.com/images/I/91h83W120kL._SY342_.jpg",
+        "description":"Alfie has won the race to be first home but—oh no!—he's slammed the front door and his mom and Annie Rose are on the other side. Will he be able to solve the problem all by himself? This board book edition of a classic Alfie story is the perfect present for the little one in your life."
+    },
+    {
+        "id":3,
+        "title":"Colours",
+        "author":"Julia Donaldson",
+        "price":99,
+        "mrp":350,
+        "publisher":"Pan Macmillan Childrens",
+        "image":"https://ik.imagekit.io/panmac/india/tr:di-placeholder_portrait_aMjPtD9YZ.jpg,tr:w-350,f-jpg,pr-true/edition/9781838990930.jpg",
+        "description":"My First Gruffalo: Colours is part of the popular Gruffalo baby and toddler series based on the bestselling picture book by Julia Donaldson and Axel Scheffler, featuring all your favourite characters from the Deep Dark Wood! Learn all about Colours with the Gruffalo in this bold, bright and chunky board book - one of four brilliant board books in the My First Gruffalo range. Other titles include Opposites, Numbers and Animal Actions. All perfect for small paws!"
+    },
+    {
+        "id":4,
+        "title":"Atlas of the World",
+        "author":"Parragon Plus",
+        "price":499,
+        "mrp":1450,
+        "publisher":"Parragon Plus",
+        "image":"https://m.media-amazon.com/images/I/A1aF7VsFtWL._AC_UF1000,1000_QL80_.jpg",
+        "description":"Discover a World of Affordable Books! Welcome to BooksByKilo, your one-stop destination for amazing deals on books! Whether you're looking for hot new best-selling releases, premium books to feed your wanderlust, or classic books that will hook you to reading, we've got something for everyone. Get ready to be amazed by our Surprise Stack, featuring hidden gems you never knew existed. With books available at pocket-friendly prices, you can stock up on your favorite novels and timeless tales. Plus, we also offer bulk book purchases for wholesalers. Join our reading community and let the adventure begin at BooksByKilo!"
+    },
+    {
+        "id":5,
+        "title":"Clare Beaton's Action Rhymes",
+        "author":"PClare Beaton",
+        "price":125,
+        "mrp":350,
+        "publisher":"Barefoot Books",
+        "image":"https://m.media-amazon.com/images/I/81lz9N0+neL._AC_UF1000,1000_QL80_.jpg",
+        "description":"Featuring seven simple rhymes in a sturdy board book format, this volume includes action rhymes which allows babies and toddlers to build movement, co-ordination and language skills."
+    },
+    {
+        "id":6,
+        "title":"Pedal Power: A PJ Masks story book",
+        "author":"Pat-a-Cake",
+        "price":149,
+        "mrp":450,
+        "publisher":"Pat-a-Cake",
+        "image":"https://m.media-amazon.com/images/I/81SxXZ0LpjL._AC_UF1000,1000_QL80_.jpg",
+        "description":"It's time to be a hero! By day, they are Connor, Greg and Amaya, but by night they are Catboy, Gekko and Owlette, the PJ Masks. This cool adventure storybook is based on the episode 'Catboy's Two-Wheeled Wonder' - when the PJ Masks discover that their super vehicles have gone missing, they must rely on their bicycles to catch Romeo and get them back. Catboy is not sure that he will be able to catch Romeo on his bicycle, but eventually the PJ Masks work together to beat the baddie. PJ Masks all shout hooray!"
+    },
+    {
+        "id":7,
+        "title":"A Treasury of Kate Greenaway",
+        "author":"Kate Greenaway,Penton Kids",
+        "price":375,
+        "mrp":999,
+        "publisher":"Penton Kids",
+        "image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356476151i/1865150.jpg",
+        "description":"During the 1870 s, three artists emerged changing the face of children s picture books forever. The artists Walter Crane, Randolph Caldecott and Kate Greenaway were noteworthy because their books were designed for children. Though Crane and Caldecott are still remembered, the illustrations of Kate Greenaway have endured the test of time and still have a place in today s nursery. The essence of Victorian childhood is exhibited in the idealized children of Greenaway s work. Her dreamy little figures seem almost melancholy as they prance through the English countryside unaware of time or place. Their outfits of frilly smocks, mob caps and sunbonnets seem Regency in appearance but are none-the-less the figments of Miss Greenaway s girlish imagination. They are an outcome of her unwillingness to leave childhood behind. In 'A Treasury of Kate Greenaway Stories' her wonderful illustrations are brought back to life with such children's favorites as: Apple Pie Book of Games Mother Goose The Pied Piper of Hamelin Under the Window Birthday Book (with records section) Book of Tunes"
+    },
+    {
+        "id":8,
+        "title":"Brindle Bear Telling the Time",
+        "author":"John Patience",
+        "price":127,
+        "mrp":450,
+        "publisher":"Peter Haddock Ltd",
+        "image":"https://m.media-amazon.com/images/I/71TGA+xAziL._AC_UF1000,1000_QL80_.jpg",
+        "description":"Discover a World of Affordable Books! Welcome to BooksByKilo, your one-stop destination for amazing deals on books! Whether you're looking for hot new best-selling releases, premium books to feed your wanderlust, or classic books that will hook you to reading, we've got something for everyone. Get ready to be amazed by our Surprise Stack, featuring hidden gems you never knew existed. With books available at pocket-friendly prices, you can stock up on your favorite novels and timeless tales. Plus, we also offer bulk book purchases for wholesalers. Join our reading community and let the adventure begin at BooksByKilo!"
+    },
+    {
+        "id":9,
+        "title":"Christmas Collection: Maureen Spurgeon",
+        "author":"Brown Watson",
+        "price":76,
+        "mrp":350,
+        "publisher":"Brown Watson",
+        "image":"https://m.media-amazon.com/images/I/A1Z-VaaO4RL.jpg",
+        "description":"Discover a World of Affordable Books! Welcome to BooksByKilo, your one-stop destination for amazing deals on books! Whether you're looking for hot new best-selling releases, premium books to feed your wanderlust, or classic books that will hook you to reading, we've got something for everyone. Get ready to be amazed by our Surprise Stack, featuring hidden gems you never knew existed. With books available at pocket-friendly prices, you can stock up on your favorite novels and timeless tales. Plus, we also offer bulk book purchases for wholesalers. Join our reading community and let the adventure begin at BooksByKilo!"
+    },
+    {
+        "id":10,
+        "title":"Jonah and the Whale",
+        "author":"Marcia Williams",
+        "price":97,
+        "mrp":399,
+        "publisher":"Walker Books",
+        "image":"https://m.media-amazon.com/images/I/91236JdEtnL._AC_UF1000,1000_QL80_.jpg",
+        "description":"Retells the Bible story in which God punishes Jonah for his disobedience by allowing him to be swallowed by a whale."
+    },
+    {
+        "id":11,
+        "title":"The Sleep Sheep",
+        "author":"Anna McQuinn",
+        "price":73,
+        "mrp":350,
+        "publisher":"Chicken House",
+        "image":"https://m.media-amazon.com/images/I/71vIhcrYykL._AC_UF1000,1000_QL80_.jpg",
+        "description":"When Sylvie can't get to sleep she tries counting sheep. But the sheep have other ideas . like dancing, rollerblading and swimming! Try to keep up with the flock of wild and woolly Sleep Sheep in this baa-rmy bedtime story."
+    },
+    {
+        "id":12,
+        "title":"Bread And Jam For Frances",
+        "author":"Russell Hoban",
+        "price":123,
+        "mrp":450,
+        "publisher":"Harper Collins",
+        "image":"https://m.media-amazon.com/images/I/61tdAb9urnL._AC_UF1000,1000_QL80_.jpg",
+        "description":"Frances decides she likes to eat only bread and jam at every meal--until to her surprise--her parents grant her wish."
+    }
+]

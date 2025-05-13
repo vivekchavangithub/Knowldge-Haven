@@ -1,0 +1,97 @@
+/* General Styles */
+.homepage {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f4f4f4;
+  }
+  
+  /* Header */
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #6c63ff;
+    color: #fff;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Hero Section */
+  .hero {
+    text-align: center;
+    padding: 3rem 1rem;
+    background: linear-gradient(to bottom, #6c63ff, #8f84ff);
+    color: white;
+  }
+  
+  .hero h1 {
+    font-size: 2.5rem;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+    margin: 1rem 0;
+  }
+  
+  .ctaButton {
+    background-color: #fff;
+    color: #6c63ff;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    /* cursor: pointer; */
+    font-size: 1rem;
+  }
+  
+  /* Featured Books Section */
+  .featuredBooks {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .featuredBooks h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .bookGrid {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .bookCard {
+    background: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 200px;
+    text-align: center;
+  }
+  
+  .bookCard img {
+    max-width: 100%;
+    height: 70%;
+    border-radius: 5px;
+  }
+  
+  .bookCard h3 {
+    font-size: 1.1rem;
+    margin: 0.5rem 0;
+  }
+  

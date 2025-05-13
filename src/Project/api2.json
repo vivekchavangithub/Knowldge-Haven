@@ -1,0 +1,201 @@
+[
+    {
+        "id": 13,
+        "title": "Wuthering Heights",
+        "author": "Emily Bronte",
+        "price": 199,
+        "mrp": 399,
+        "publisher": "Allen & Unwin",
+        "image": "https://tse4.mm.bing.net/th?id=OIP.4dG5NskDxy0nuBilxpuTuQHaLb&pid=Api",
+        "description": "A tale of passion and revenge set on the Yorkshire moors, exploring the complex relationship between Catherine Earnshaw and Heathcliff."
+    },
+    {
+        "id": 14,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "price": 149,
+        "mrp": 299,
+        "publisher": "Penguin Books",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.S7SJ_bM-1a1R2jnu_LHCHgHaKN&pid=Api",
+        "description": "Jane Austen's romantic novel follows Elizabeth Bennet as she navigates issues of manners, upbringing, and marriage in early 19th-century England."
+    },
+    {
+        "id": 15,
+        "title": "1984",
+        "author": "George Orwell",
+        "price": 249,
+        "mrp": 499,
+        "publisher": "Secker & Warburg",
+        "image": "https://tse3.mm.bing.net/th?id=OIP.ErdfZFrY-03KaPigAIf1pAHaNS&pid=Api",
+        "description": "George Orwell's dystopian novel delves into a totalitarian regime where surveillance and propaganda suppress individual freedom."
+    },
+    {
+        "id": 16,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "price": 199,
+        "mrp": 399,
+        "publisher": "J.B. Lippincott & Co.",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.G067O0bgyyx4Edq4bYrwiwHaLJ&pid=Api",
+        "description": "Harper Lee's classic addresses racial injustice and moral growth in the American South through the eyes of young Scout Finch."
+    },
+    {
+        "id": 17,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "price": 179,
+        "mrp": 359,
+        "publisher": "Charles Scribner's Sons",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.eTO09xqdGYiKU913AIb0vQHaJt&pid=Api",
+        "description": "F. Scott Fitzgerald's novel captures the decadence and excess of the Jazz Age, focusing on the mysterious Jay Gatsby and his obsession with Daisy Buchanan."
+    },
+    {
+        "id": 18,
+        "title": "Jane Eyre",
+        "author": "Charlotte Bronte",
+        "price": 189,
+        "mrp": 379,
+        "publisher": "Smith, Elder & Co.",
+        "image": "https://m.media-amazon.com/images/I/61N-UOA0alL._UF1000,1000_QL80_.jpg",
+        "description": "The story of an orphaned girl’s quest for self-respect, love, and independence."
+    },
+    {
+        "id": 19,
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "price": 199,
+        "mrp": 399,
+        "publisher": "Harper & Brothers",
+        "image": "https://rukminim2.flixcart.com/image/720/864/k6i7zww0/book/9/5/4/moby-dick-original-imafn8jp5ua2kywg.jpeg?q=60&crop=false",
+        "description": "An epic tale of Captain Ahab’s obsessive quest to kill the great white whale."
+    },
+    {
+        "id": 20,
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "price": 299,
+        "mrp": 599,
+        "publisher": "The Russian Messenger",
+        "image": "https://m.media-amazon.com/images/I/81oHM-dzefL._AC_UF1000,1000_QL80_.jpg",
+        "description": "A historical epic that weaves together the lives of several families during the Napoleonic wars."
+    },
+    {
+        "id": 21,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "price": 159,
+        "mrp": 329,
+        "publisher": "Little, Brown and Company",
+        "image": "https://m.media-amazon.com/images/I/7108sdEUEGL.jpg",
+        "description": "A teenager’s journey through New York City as he grapples with themes of identity and alienation."
+    },
+    {
+        "id": 22,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "price": 229,
+        "mrp": 469,
+        "publisher": "The Russian Messenger",
+        "image": "https://m.media-amazon.com/images/I/71O2XIytdqL.jpg",
+        "description": "A psychological drama that explores morality, guilt, and redemption."
+    },{
+        "id": 23,
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "price": 299,
+        "mrp": 599,
+        "publisher": "The Russian Messenger",
+        "image": "https://m.media-amazon.com/images/I/71O3PTUA3vL.jpg",
+        "description": "A tragic tale of love and society, exploring the struggles of Anna Karenina against the backdrop of Russian aristocracy."
+    },
+    {
+        "id": 24,
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "price": 179,
+        "mrp": 359,
+        "publisher": "Lackington, Hughes, Harding, Mavor & Jones",
+        "image": "https://m.media-amazon.com/images/I/81AuVq270jL._UF1000,1000_QL80_.jpg",
+        "description": "The story of Victor Frankenstein, a scientist who creates a sentient creature, leading to catastrophic consequences."
+    },
+    {
+        "id": 25,
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "price": 189,
+        "mrp": 379,
+        "publisher": "Archibald Constable and Company",
+        "image": "https://m.media-amazon.com/images/I/91wOUFZCE+L._UF1000,1000_QL80_.jpg",
+        "description": "A gothic novel about the vampire Count Dracula’s attempt to move from Transylvania to England."
+    },
+    {
+        "id": 26,
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "price": 169,
+        "mrp": 349,
+        "publisher": "Ward, Lock & Co.",
+        "image": "https://m.media-amazon.com/images/I/91uns-1GnQL.jpg",
+        "description": "A tale of vanity and corruption, where Dorian Gray remains youthful while his portrait ages."
+    },
+    {
+        "id": 27,
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "price": 189,
+        "mrp": 379,
+        "publisher": "Chapman & Hall",
+        "image": "https://m.media-amazon.com/images/I/81elBAS5LcL._UF1000,1000_QL80_.jpg",
+        "description": "The story of Pip, an orphaned boy, as he grows and navigates his ambitions, love, and self-discovery."
+    },
+    {
+        "id": 28,
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "price": 249,
+        "mrp": 499,
+        "publisher": "A. Lacroix, Verboeckhoven & Cie",
+        "image": "https://m.media-amazon.com/images/I/91p594CxSpL.jpg",
+        "description": "A historical novel that explores justice, love, and redemption in 19th-century France."
+    },
+    {
+        "id": 29,
+        "title": "The Odyssey",
+        "author": "Homer",
+        "price": 209,
+        "mrp": 419,
+        "publisher": "Various",
+        "image": "https://m.media-amazon.com/images/I/A1JR2oK-orL.jpg",
+        "description": "The epic journey of Odysseus as he returns home from the Trojan War."
+    },
+    {
+        "id": 30,
+        "title": "The Iliad",
+        "author": "Homer",
+        "price": 209,
+        "mrp": 419,
+        "publisher": "Various",
+        "image": "https://m.media-amazon.com/images/I/71f6IxWPdzL._AC_UF1000,1000_QL80_.jpg",
+        "description": "The epic tale of the Trojan War, focusing on the hero Achilles."
+    },
+    {
+        "id": 31,
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "price": 269,
+        "mrp": 539,
+        "publisher": "The Russian Messenger",
+        "image": "https://m.media-amazon.com/images/I/71OZJsgZzQL._AC_UF1000,1000_QL80_.jpg",
+        "description": "A philosophical novel exploring morality, faith, and familial conflict."
+    },
+    {
+        "id": 32,
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "price": 189,
+        "mrp": 379,
+        "publisher": "Chapman & Hall",
+        "image": "https://m.media-amazon.com/images/I/813Yv-lescL._UF1000,1000_QL80_.jpg",
+        "description": "A historical novel set during the French Revolution, exploring themes of resurrection and transformation."
+    }
+]

@@ -1,0 +1,189 @@
+/* General Container
+.aboutContainer {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+    padding: 2rem;
+  } */
+  
+  /* About Section */
+  /* .aboutSection {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .aboutSection h1 {
+    font-size: 2.5rem;
+    color: #6c63ff;
+    margin-bottom: 1rem;
+  }
+  
+  .aboutSection p {
+    font-size: 1rem;
+    margin: 0.5rem 0;
+  } */
+  
+  /* Features Section */
+  /* .featuresSection {
+    background: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+  }
+  
+  .featuresSection h2 {
+    text-align: center;
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+  .featuresList {
+    list-style: none;
+    padding: 0;
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.8;
+  }
+  
+  .featuresList li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+  }
+  
+  .featuresList li strong {
+    margin-left: 0.5rem;
+  } */
+  
+  /* Mission Section */
+  /* .missionSection {
+    text-align: center;
+    background: #6c63ff;
+    color: white;
+    padding: 2rem;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+  }
+  
+  .missionSection h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .missionSection p {
+    font-size: 1.1rem;
+  } */
+  
+  /* General Container */
+.aboutContainer {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+    padding: 2rem;
+  }
+  
+  /* About Section */
+  .aboutSection {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .aboutSection h1 {
+    font-size: 2.5rem;
+    color: #6c63ff;
+    margin-bottom: 1rem;
+  }
+  
+  .aboutSection p {
+    font-size: 1rem;
+    margin: 0.5rem 0;
+  }
+  
+  /* Features Section */
+  .featuresSection {
+    background-color: #6c63ff;
+    color: white;
+    padding: 2rem;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+  }
+  
+  .featuresSection h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .featuresList {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .featuresList li {
+    font-size: 1.1rem;
+    margin: 1rem 0;
+  }
+  
+  /* Mission Section */
+  .missionSection {
+    text-align: center;
+    background: #f4f4f4;
+    padding: 2rem;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+  }
+  
+  .missionSection h2 {
+    font-size: 2rem;
+    color: blueviolet;
+    margin-bottom: 1rem;
+  }
+  
+  .missionSection p {
+    font-size: 1.1rem;
+  }
+
+  /* Vision Section */
+.visionSection {
+    text-align: center;
+    background: #e3f2fd;
+    padding: 2rem;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+  }
+  
+  .visionSection h2 {
+    font-size: 2rem;
+    color: #1e88e5;
+    margin-bottom: 1rem;
+  }
+  
+  .visionSection p {
+    font-size: 1.1rem;
+    color: #333;
+  }
+  
+  /* Goal Section */
+  .goalSection {
+    text-align: center;
+    background: #fce4ec;
+    padding: 2rem;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+  }
+  
+  .goalSection h2 {
+    font-size: 2rem;
+    color: #d81b60;
+    margin-bottom: 1rem;
+  }
+  
+  .goalSection p {
+    font-size: 1.1rem;
+    color: #333;
+  }
+
+  

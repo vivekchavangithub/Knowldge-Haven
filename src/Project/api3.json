@@ -1,0 +1,321 @@
+[
+    {
+        "id":1,
+        "title":"Follow the Shooting Star",
+        "author":"Sarah Albee",
+        "price":99,
+        "mrp":399,
+        "publisher":"Disney Books",
+        "image":"https://static.wikia.nocookie.net/winniethepooh/images/e/e5/Follow_the_shooting_star_RWPAYT.png",
+        "description":"Discover a World of Affordable Books! Welcome to BooksByKilo, your one-stop destination for amazing deals on books! Whether you're looking for hot new best-selling releases, premium books to feed your wanderlust, or classic books that will hook you to reading, we've got something for everyone. Get ready to be amazed by our Surprise Stack, featuring hidden gems you never knew existed. With books available at pocket-friendly prices, you can stock up on your favorite novels and timeless tales. Plus, we also offer bulk book purchases for wholesalers. Join our reading community and let the adventure begin at BooksByKilo!"
+    },
+    {
+        "id":2,
+        "title":"Alfie Gets in First",
+        "author":"Shirley Hughes",
+        "price":149,
+        "mrp":450,
+        "publisher":"Red Fox",
+        "image":"https://m.media-amazon.com/images/I/91h83W120kL._SY342_.jpg",
+        "description":"Alfie has won the race to be first home but—oh no!—he's slammed the front door and his mom and Annie Rose are on the other side. Will he be able to solve the problem all by himself? This board book edition of a classic Alfie story is the perfect present for the little one in your life."
+    },
+    {
+        "id":3,
+        "title":"Colours",
+        "author":"Julia Donaldson",
+        "price":99,
+        "mrp":350,
+        "publisher":"Pan Macmillan Childrens",
+        "image":"https://ik.imagekit.io/panmac/india/tr:di-placeholder_portrait_aMjPtD9YZ.jpg,tr:w-350,f-jpg,pr-true/edition/9781838990930.jpg",
+        "description":"My First Gruffalo: Colours is part of the popular Gruffalo baby and toddler series based on the bestselling picture book by Julia Donaldson and Axel Scheffler, featuring all your favourite characters from the Deep Dark Wood! Learn all about Colours with the Gruffalo in this bold, bright and chunky board book - one of four brilliant board books in the My First Gruffalo range. Other titles include Opposites, Numbers and Animal Actions. All perfect for small paws!"
+    },
+    {
+        "id":4,
+        "title":"Atlas of the World",
+        "author":"Parragon Plus",
+        "price":499,
+        "mrp":1450,
+        "publisher":"Parragon Plus",
+        "image":"https://m.media-amazon.com/images/I/A1aF7VsFtWL._AC_UF1000,1000_QL80_.jpg",
+        "description":"Discover a World of Affordable Books! Welcome to BooksByKilo, your one-stop destination for amazing deals on books! Whether you're looking for hot new best-selling releases, premium books to feed your wanderlust, or classic books that will hook you to reading, we've got something for everyone. Get ready to be amazed by our Surprise Stack, featuring hidden gems you never knew existed. With books available at pocket-friendly prices, you can stock up on your favorite novels and timeless tales. Plus, we also offer bulk book purchases for wholesalers. Join our reading community and let the adventure begin at BooksByKilo!"
+    },
+    {
+        "id":5,
+        "title":"Clare Beaton's Action Rhymes",
+        "author":"PClare Beaton",
+        "price":125,
+        "mrp":350,
+        "publisher":"Barefoot Books",
+        "image":"https://m.media-amazon.com/images/I/81lz9N0+neL._AC_UF1000,1000_QL80_.jpg",
+        "description":"Featuring seven simple rhymes in a sturdy board book format, this volume includes action rhymes which allows babies and toddlers to build movement, co-ordination and language skills."
+    },
+    {
+        "id":6,
+        "title":"Pedal Power: A PJ Masks story book",
+        "author":"Pat-a-Cake",
+        "price":149,
+        "mrp":450,
+        "publisher":"Pat-a-Cake",
+        "image":"https://m.media-amazon.com/images/I/81SxXZ0LpjL._AC_UF1000,1000_QL80_.jpg",
+        "description":"It's time to be a hero! By day, they are Connor, Greg and Amaya, but by night they are Catboy, Gekko and Owlette, the PJ Masks. This cool adventure storybook is based on the episode 'Catboy's Two-Wheeled Wonder' - when the PJ Masks discover that their super vehicles have gone missing, they must rely on their bicycles to catch Romeo and get them back. Catboy is not sure that he will be able to catch Romeo on his bicycle, but eventually the PJ Masks work together to beat the baddie. PJ Masks all shout hooray!"
+    },
+    {
+        "id":7,
+        "title":"A Treasury of Kate Greenaway",
+        "author":"Kate Greenaway,Penton Kids",
+        "price":375,
+        "mrp":999,
+        "publisher":"Penton Kids",
+        "image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356476151i/1865150.jpg",
+        "description":"During the 1870 s, three artists emerged changing the face of children s picture books forever. The artists Walter Crane, Randolph Caldecott and Kate Greenaway were noteworthy because their books were designed for children. Though Crane and Caldecott are still remembered, the illustrations of Kate Greenaway have endured the test of time and still have a place in today s nursery. The essence of Victorian childhood is exhibited in the idealized children of Greenaway s work. Her dreamy little figures seem almost melancholy as they prance through the English countryside unaware of time or place. Their outfits of frilly smocks, mob caps and sunbonnets seem Regency in appearance but are none-the-less the figments of Miss Greenaway s girlish imagination. They are an outcome of her unwillingness to leave childhood behind. In 'A Treasury of Kate Greenaway Stories' her wonderful illustrations are brought back to life with such children's favorites as: Apple Pie Book of Games Mother Goose The Pied Piper of Hamelin Under the Window Birthday Book (with records section) Book of Tunes"
+    },
+    {
+        "id":8,
+        "title":"Brindle Bear Telling the Time",
+        "author":"John Patience",
+        "price":127,
+        "mrp":450,
+        "publisher":"Peter Haddock Ltd",
+        "image":"https://m.media-amazon.com/images/I/71TGA+xAziL._AC_UF1000,1000_QL80_.jpg",
+        "description":"Discover a World of Affordable Books! Welcome to BooksByKilo, your one-stop destination for amazing deals on books! Whether you're looking for hot new best-selling releases, premium books to feed your wanderlust, or classic books that will hook you to reading, we've got something for everyone. Get ready to be amazed by our Surprise Stack, featuring hidden gems you never knew existed. With books available at pocket-friendly prices, you can stock up on your favorite novels and timeless tales. Plus, we also offer bulk book purchases for wholesalers. Join our reading community and let the adventure begin at BooksByKilo!"
+    },
+    {
+        "id":9,
+        "title":"Christmas Collection: Maureen Spurgeon",
+        "author":"Brown Watson",
+        "price":76,
+        "mrp":350,
+        "publisher":"Brown Watson",
+        "image":"https://m.media-amazon.com/images/I/A1Z-VaaO4RL.jpg",
+        "description":"Discover a World of Affordable Books! Welcome to BooksByKilo, your one-stop destination for amazing deals on books! Whether you're looking for hot new best-selling releases, premium books to feed your wanderlust, or classic books that will hook you to reading, we've got something for everyone. Get ready to be amazed by our Surprise Stack, featuring hidden gems you never knew existed. With books available at pocket-friendly prices, you can stock up on your favorite novels and timeless tales. Plus, we also offer bulk book purchases for wholesalers. Join our reading community and let the adventure begin at BooksByKilo!"
+    },
+    {
+        "id":10,
+        "title":"Jonah and the Whale",
+        "author":"Marcia Williams",
+        "price":97,
+        "mrp":399,
+        "publisher":"Walker Books",
+        "image":"https://m.media-amazon.com/images/I/91236JdEtnL._AC_UF1000,1000_QL80_.jpg",
+        "description":"Retells the Bible story in which God punishes Jonah for his disobedience by allowing him to be swallowed by a whale."
+    },
+    {
+        "id":11,
+        "title":"The Sleep Sheep",
+        "author":"Anna McQuinn",
+        "price":73,
+        "mrp":350,
+        "publisher":"Chicken House",
+        "image":"https://m.media-amazon.com/images/I/71vIhcrYykL._AC_UF1000,1000_QL80_.jpg",
+        "description":"When Sylvie can't get to sleep she tries counting sheep. But the sheep have other ideas . like dancing, rollerblading and swimming! Try to keep up with the flock of wild and woolly Sleep Sheep in this baa-rmy bedtime story."
+    },
+    {
+        "id":12,
+        "title":"Bread And Jam For Frances",
+        "author":"Russell Hoban",
+        "price":123,
+        "mrp":450,
+        "publisher":"Harper Collins",
+        "image":"https://m.media-amazon.com/images/I/61tdAb9urnL._AC_UF1000,1000_QL80_.jpg",
+        "description":"Frances decides she likes to eat only bread and jam at every meal--until to her surprise--her parents grant her wish."
+    },
+    {
+        "id": 13,
+        "title": "Wuthering Heights",
+        "author": "Emily Bronte",
+        "price": 199,
+        "mrp": 399,
+        "publisher": "Allen & Unwin",
+        "image": "https://tse4.mm.bing.net/th?id=OIP.4dG5NskDxy0nuBilxpuTuQHaLb&pid=Api",
+        "description": "A tale of passion and revenge set on the Yorkshire moors, exploring the complex relationship between Catherine Earnshaw and Heathcliff."
+    },
+    {
+        "id": 14,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "price": 149,
+        "mrp": 299,
+        "publisher": "Penguin Books",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.S7SJ_bM-1a1R2jnu_LHCHgHaKN&pid=Api",
+        "description": "Jane Austen's romantic novel follows Elizabeth Bennet as she navigates issues of manners, upbringing, and marriage in early 19th-century England."
+    },
+    {
+        "id": 15,
+        "title": "1984",
+        "author": "George Orwell",
+        "price": 249,
+        "mrp": 499,
+        "publisher": "Secker & Warburg",
+        "image": "https://tse3.mm.bing.net/th?id=OIP.ErdfZFrY-03KaPigAIf1pAHaNS&pid=Api",
+        "description": "George Orwell's dystopian novel delves into a totalitarian regime where surveillance and propaganda suppress individual freedom."
+    },
+    {
+        "id": 16,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "price": 199,
+        "mrp": 399,
+        "publisher": "J.B. Lippincott & Co.",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.G067O0bgyyx4Edq4bYrwiwHaLJ&pid=Api",
+        "description": "Harper Lee's classic addresses racial injustice and moral growth in the American South through the eyes of young Scout Finch."
+    },
+    {
+        "id": 17,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "price": 179,
+        "mrp": 359,
+        "publisher": "Charles Scribner's Sons",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.eTO09xqdGYiKU913AIb0vQHaJt&pid=Api",
+        "description": "F. Scott Fitzgerald's novel captures the decadence and excess of the Jazz Age, focusing on the mysterious Jay Gatsby and his obsession with Daisy Buchanan."
+    },
+    {
+        "id": 18,
+        "title": "Jane Eyre",
+        "author": "Charlotte Bronte",
+        "price": 189,
+        "mrp": 379,
+        "publisher": "Smith, Elder & Co.",
+        "image": "https://m.media-amazon.com/images/I/61N-UOA0alL._UF1000,1000_QL80_.jpg",
+        "description": "The story of an orphaned girl’s quest for self-respect, love, and independence."
+    },
+    {
+        "id": 19,
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "price": 199,
+        "mrp": 399,
+        "publisher": "Harper & Brothers",
+        "image": "https://rukminim2.flixcart.com/image/720/864/k6i7zww0/book/9/5/4/moby-dick-original-imafn8jp5ua2kywg.jpeg?q=60&crop=false",
+        "description": "An epic tale of Captain Ahab’s obsessive quest to kill the great white whale."
+    },
+    {
+        "id": 20,
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "price": 299,
+        "mrp": 599,
+        "publisher": "The Russian Messenger",
+        "image": "https://m.media-amazon.com/images/I/81oHM-dzefL._AC_UF1000,1000_QL80_.jpg",
+        "description": "A historical epic that weaves together the lives of several families during the Napoleonic wars."
+    },
+    {
+        "id": 21,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "price": 159,
+        "mrp": 329,
+        "publisher": "Little, Brown and Company",
+        "image": "https://m.media-amazon.com/images/I/7108sdEUEGL.jpg",
+        "description": "A teenager’s journey through New York City as he grapples with themes of identity and alienation."
+    },
+    {
+        "id": 22,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "price": 229,
+        "mrp": 469,
+        "publisher": "The Russian Messenger",
+        "image": "https://m.media-amazon.com/images/I/71O2XIytdqL.jpg",
+        "description": "A psychological drama that explores morality, guilt, and redemption."
+    },{
+        "id": 23,
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "price": 299,
+        "mrp": 599,
+        "publisher": "The Russian Messenger",
+        "image": "https://m.media-amazon.com/images/I/71O3PTUA3vL.jpg",
+        "description": "A tragic tale of love and society, exploring the struggles of Anna Karenina against the backdrop of Russian aristocracy."
+    },
+    {
+        "id": 24,
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "price": 179,
+        "mrp": 359,
+        "publisher": "Lackington, Hughes, Harding, Mavor & Jones",
+        "image": "https://m.media-amazon.com/images/I/81AuVq270jL._UF1000,1000_QL80_.jpg",
+        "description": "The story of Victor Frankenstein, a scientist who creates a sentient creature, leading to catastrophic consequences."
+    },
+    {
+        "id": 25,
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "price": 189,
+        "mrp": 379,
+        "publisher": "Archibald Constable and Company",
+        "image": "https://m.media-amazon.com/images/I/91wOUFZCE+L._UF1000,1000_QL80_.jpg",
+        "description": "A gothic novel about the vampire Count Dracula’s attempt to move from Transylvania to England."
+    },
+    {
+        "id": 26,
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "price": 169,
+        "mrp": 349,
+        "publisher": "Ward, Lock & Co.",
+        "image": "https://m.media-amazon.com/images/I/91uns-1GnQL.jpg",
+        "description": "A tale of vanity and corruption, where Dorian Gray remains youthful while his portrait ages."
+    },
+    {
+        "id": 27,
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "price": 189,
+        "mrp": 379,
+        "publisher": "Chapman & Hall",
+        "image": "https://m.media-amazon.com/images/I/81elBAS5LcL._UF1000,1000_QL80_.jpg",
+        "description": "The story of Pip, an orphaned boy, as he grows and navigates his ambitions, love, and self-discovery."
+    },
+    {
+        "id": 28,
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "price": 249,
+        "mrp": 499,
+        "publisher": "A. Lacroix, Verboeckhoven & Cie",
+        "image": "https://m.media-amazon.com/images/I/91p594CxSpL.jpg",
+        "description": "A historical novel that explores justice, love, and redemption in 19th-century France."
+    },
+    {
+        "id": 29,
+        "title": "The Odyssey",
+        "author": "Homer",
+        "price": 209,
+        "mrp": 419,
+        "publisher": "Various",
+        "image": "https://m.media-amazon.com/images/I/A1JR2oK-orL.jpg",
+        "description": "The epic journey of Odysseus as he returns home from the Trojan War."
+    },
+    {
+        "id": 30,
+        "title": "The Iliad",
+        "author": "Homer",
+        "price": 209,
+        "mrp": 419,
+        "publisher": "Various",
+        "image": "https://m.media-amazon.com/images/I/71f6IxWPdzL._AC_UF1000,1000_QL80_.jpg",
+        "description": "The epic tale of the Trojan War, focusing on the hero Achilles."
+    },
+    {
+        "id": 31,
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "price": 269,
+        "mrp": 539,
+        "publisher": "The Russian Messenger",
+        "image": "https://m.media-amazon.com/images/I/71OZJsgZzQL._AC_UF1000,1000_QL80_.jpg",
+        "description": "A philosophical novel exploring morality, faith, and familial conflict."
+    },
+    {
+        "id": 32,
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "price": 189,
+        "mrp": 379,
+        "publisher": "Chapman & Hall",
+        "image": "https://m.media-amazon.com/images/I/813Yv-lescL._UF1000,1000_QL80_.jpg",
+        "description": "A historical novel set during the French Revolution, exploring themes of resurrection and transformation."
+    }
+]
