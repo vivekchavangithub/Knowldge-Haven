@@ -17,7 +17,7 @@ const Home = () => {
   
   useEffect(() =>{
 
-    axios.get("https://vivekchavangithub.github.io/jsonapi/login.json/users/"+id).then((v)=>{
+    axios.get("http://localhost:5000/users/"+id).then((v)=>{
       setData(v.data)
     })
 
