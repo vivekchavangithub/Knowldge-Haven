@@ -12,7 +12,7 @@ const login = ({children}) =>{
 
     let id = ""
     useEffect(() =>{
-      axios.get("https://vivekchavangithub.github.io/jsonapi/login.json").then((v) =>{
+      axios.get("http://localhost:5000/users").then((v) =>{
           setData(v.data)
           console.log(v.data)
         })
